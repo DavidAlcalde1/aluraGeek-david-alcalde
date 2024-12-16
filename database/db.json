@@ -47,12 +47,6 @@
       "name": "perro3",
       "price": 14.6,
       "image": "./img/perro.jpg"
-    },
-    {
-      "id": "15e9",
-      "name": "product2",
-      "price": 14.7,
-      "image": "./img/producto2.svg"
     }
   ]
 }
